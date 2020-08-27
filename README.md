@@ -1,4 +1,4 @@
-# node-vampinto-bot
+# discord-bot-avatar-rgb
 
 Crie uma paleta de cor usando avatar do Discord
 
@@ -8,7 +8,7 @@ Criado por [Acacio De Lima](https://twitter.com/limadeacacio)
 
 ## Instalação
 
-Configure o arquivo ```"src/config.json"``` com o token do seu bot:
+Crie e configure o arquivo ```".env"``` com o token do seu bot:
 
 Em seguida, execute o comando de instalação do seu gerenciador de pacotes:
 
