@@ -1,10 +1,10 @@
-# discord-bot-avatar-rgb
+# Discord Bot Avatar RGB
 
 Crie uma paleta de cor usando avatar do Discord
 
-## Créditos
+## Exemplo
 
-Criado por [Acacio De Lima](https://twitter.com/limadeacacio)
+![](https://i.imgur.com/e1PaHUo.png)
 
 ## Instalação
 
@@ -14,6 +14,6 @@ Em seguida, execute o comando de instalação do seu gerenciador de pacotes:
 
 ```npm i``` ou ```yarn```
 
-## Exemplo
+## Créditos
 
-![](https://i.imgur.com/e1PaHUo.png)
+Criado por [Acacio De Lima](https://twitter.com/limadeacacio)
