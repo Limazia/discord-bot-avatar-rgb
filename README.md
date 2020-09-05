@@ -14,6 +14,10 @@ Em seguida, execute o comando de instalação do seu gerenciador de pacotes:
 
 ```npm i``` ou ```yarn```
 
+## .env
+> DISCORD_TOKEN=TOKEN\
+DISCORD_CHANNEL=welcome
+
 ## Créditos
 
 Criado por [Acacio De Lima](https://twitter.com/limadeacacio)
